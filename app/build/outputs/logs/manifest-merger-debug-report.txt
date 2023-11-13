@@ -1,0 +1,394 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\922cb5d95c0af030692480c005c06ea9\transformed\viewbinding-7.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\33aa54dd98aa9e1ffa65867108066f3e\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Vivek\.gradle\caches\transforms-3\19c6fcaa80fcfe5eda30ed81c7f620df\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Vivek\.gradle\caches\transforms-3\af140bae324822ef3ef4e8dd545c5a9f\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Vivek\.gradle\caches\transforms-3\a242cf0a8c8a7e2b63abb1566079aef7\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\f6cace661c5d99a2faf8cfecfee232a3\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\cc02250e98b73fd5a4288ae8a296a62f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Vivek\.gradle\caches\transforms-3\840b5a3530a7e759b32b39a6862f157d\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\5642ecd40f1c30a4307958697d069089\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Vivek\.gradle\caches\transforms-3\d3601deedc5c7b2f6dc5f3594eb8ebf8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Vivek\.gradle\caches\transforms-3\de96db7c99c4e96b5278a6829d6fb705\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Vivek\.gradle\caches\transforms-3\86707d1d20d8d942f23c8877e33ac9e8\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\b812233d1d58f2320de78338f5d35fe9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\661948753a2dbe01e3501eaa6182b091\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\840cee91ba5fe8184cb10987278310a0\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\e2fcfcbe81830ae8fcda3ac50883a118\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\884e7556d5d7b3df4d4e5924f122b669\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\dfefcfd346a2b99bc3d1c94d552a8bbf\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\581e02cde81609956b4ad5890fa6dc53\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\996f259b1968e931cfb94238a8afdb1a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\598f88b19f6893cd5a64aa557a0ce217\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\97e889ad5207adc92fab3c76b9410825\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\efbaa02900c984345dfa2d105476658e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\b2f3caccb6c8b17cf7dea34268447977\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\24a7c25047450b29c095867e08d5b526\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\b0ae996955e619057812855a1b7c703c\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\de68ce2c2f29cca9a174efef75815d9b\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\da0bc8d41b88326635edbd775b966ac3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\f07c671cfe834708c82476af9483f954\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\9f4363820736a2bdf74b6653decf33b2\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\26ffe3398f119dfd23ad50e8981f5268\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\cc220bd337d9a4b758da78155ee2f3e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\29c5f819e74dddb0ba02a7a6b7b9c0ff\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\e56f3f77a05ec0506ad226ac86a3920e\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\9ef26d77ce7d13459cbee8eeb1c18ab8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\b2a626ed5d88591a1ef05e9f2944a88c\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\6bce38097ada86a73a9b5cde3ec79eb2\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\Vivek\.gradle\caches\transforms-3\b1a109ead19e620a97a55fb8de8f30f5\transformed\firebase-components-17.1.5\AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\db184cfcf18f84e8d8f0ea4f86932594\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\abcbf2cdb268e02a7d515081d2837da9\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\4258753da3148e52509f0065f556d31c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\6c64834aa60fd79fbad6866549837afc\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\32981826ab003eec7f46b646edde98a2\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:5:5-32:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\33aa54dd98aa9e1ffa65867108066f3e\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\33aa54dd98aa9e1ffa65867108066f3e\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Vivek\.gradle\caches\transforms-3\af140bae324822ef3ef4e8dd545c5a9f\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Vivek\.gradle\caches\transforms-3\af140bae324822ef3ef4e8dd545c5a9f\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\cc02250e98b73fd5a4288ae8a296a62f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\cc02250e98b73fd5a4288ae8a296a62f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\5642ecd40f1c30a4307958697d069089\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\5642ecd40f1c30a4307958697d069089\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Vivek\.gradle\caches\transforms-3\d3601deedc5c7b2f6dc5f3594eb8ebf8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Vivek\.gradle\caches\transforms-3\d3601deedc5c7b2f6dc5f3594eb8ebf8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\cc220bd337d9a4b758da78155ee2f3e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\cc220bd337d9a4b758da78155ee2f3e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\29c5f819e74dddb0ba02a7a6b7b9c0ff\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\29c5f819e74dddb0ba02a7a6b7b9c0ff\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:8:9-54
+	tools:targetApi
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:13:9-29
+	android:icon
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:12:9-52
+	android:dataExtractionRules
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.contactmanager.Call
+ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:15:13-33
+activity#com.example.contactmanager.SignIn
+ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:18:13-35
+activity#com.example.contactmanager.SignUp
+ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:21:13-35
+activity#com.example.contactmanager.MainActivity
+ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\922cb5d95c0af030692480c005c06ea9\transformed\viewbinding-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\922cb5d95c0af030692480c005c06ea9\transformed\viewbinding-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\33aa54dd98aa9e1ffa65867108066f3e\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\33aa54dd98aa9e1ffa65867108066f3e\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Vivek\.gradle\caches\transforms-3\19c6fcaa80fcfe5eda30ed81c7f620df\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Vivek\.gradle\caches\transforms-3\19c6fcaa80fcfe5eda30ed81c7f620df\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Vivek\.gradle\caches\transforms-3\af140bae324822ef3ef4e8dd545c5a9f\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Vivek\.gradle\caches\transforms-3\af140bae324822ef3ef4e8dd545c5a9f\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Vivek\.gradle\caches\transforms-3\a242cf0a8c8a7e2b63abb1566079aef7\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Vivek\.gradle\caches\transforms-3\a242cf0a8c8a7e2b63abb1566079aef7\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\f6cace661c5d99a2faf8cfecfee232a3\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\f6cace661c5d99a2faf8cfecfee232a3\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\cc02250e98b73fd5a4288ae8a296a62f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\cc02250e98b73fd5a4288ae8a296a62f\transformed\firebase-appcheck-interop-17.1.0\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Vivek\.gradle\caches\transforms-3\840b5a3530a7e759b32b39a6862f157d\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Vivek\.gradle\caches\transforms-3\840b5a3530a7e759b32b39a6862f157d\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\5642ecd40f1c30a4307958697d069089\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\5642ecd40f1c30a4307958697d069089\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Vivek\.gradle\caches\transforms-3\d3601deedc5c7b2f6dc5f3594eb8ebf8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Vivek\.gradle\caches\transforms-3\d3601deedc5c7b2f6dc5f3594eb8ebf8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Vivek\.gradle\caches\transforms-3\de96db7c99c4e96b5278a6829d6fb705\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Vivek\.gradle\caches\transforms-3\de96db7c99c4e96b5278a6829d6fb705\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Vivek\.gradle\caches\transforms-3\86707d1d20d8d942f23c8877e33ac9e8\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\Vivek\.gradle\caches\transforms-3\86707d1d20d8d942f23c8877e33ac9e8\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\b812233d1d58f2320de78338f5d35fe9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\b812233d1d58f2320de78338f5d35fe9\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\661948753a2dbe01e3501eaa6182b091\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\661948753a2dbe01e3501eaa6182b091\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\840cee91ba5fe8184cb10987278310a0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\840cee91ba5fe8184cb10987278310a0\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\e2fcfcbe81830ae8fcda3ac50883a118\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\e2fcfcbe81830ae8fcda3ac50883a118\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\884e7556d5d7b3df4d4e5924f122b669\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\884e7556d5d7b3df4d4e5924f122b669\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\dfefcfd346a2b99bc3d1c94d552a8bbf\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\dfefcfd346a2b99bc3d1c94d552a8bbf\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\581e02cde81609956b4ad5890fa6dc53\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\581e02cde81609956b4ad5890fa6dc53\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\996f259b1968e931cfb94238a8afdb1a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\996f259b1968e931cfb94238a8afdb1a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\598f88b19f6893cd5a64aa557a0ce217\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\598f88b19f6893cd5a64aa557a0ce217\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\97e889ad5207adc92fab3c76b9410825\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\97e889ad5207adc92fab3c76b9410825\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\efbaa02900c984345dfa2d105476658e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\efbaa02900c984345dfa2d105476658e\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\b2f3caccb6c8b17cf7dea34268447977\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\b2f3caccb6c8b17cf7dea34268447977\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\24a7c25047450b29c095867e08d5b526\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\24a7c25047450b29c095867e08d5b526\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\b0ae996955e619057812855a1b7c703c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\b0ae996955e619057812855a1b7c703c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\de68ce2c2f29cca9a174efef75815d9b\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\de68ce2c2f29cca9a174efef75815d9b\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\da0bc8d41b88326635edbd775b966ac3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\da0bc8d41b88326635edbd775b966ac3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\f07c671cfe834708c82476af9483f954\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\f07c671cfe834708c82476af9483f954\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\9f4363820736a2bdf74b6653decf33b2\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\9f4363820736a2bdf74b6653decf33b2\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\26ffe3398f119dfd23ad50e8981f5268\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\26ffe3398f119dfd23ad50e8981f5268\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\cc220bd337d9a4b758da78155ee2f3e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\cc220bd337d9a4b758da78155ee2f3e2\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\29c5f819e74dddb0ba02a7a6b7b9c0ff\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\29c5f819e74dddb0ba02a7a6b7b9c0ff\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\e56f3f77a05ec0506ad226ac86a3920e\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\e56f3f77a05ec0506ad226ac86a3920e\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\9ef26d77ce7d13459cbee8eeb1c18ab8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\9ef26d77ce7d13459cbee8eeb1c18ab8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\b2a626ed5d88591a1ef05e9f2944a88c\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\Vivek\.gradle\caches\transforms-3\b2a626ed5d88591a1ef05e9f2944a88c\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\6bce38097ada86a73a9b5cde3ec79eb2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\6bce38097ada86a73a9b5cde3ec79eb2\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\Vivek\.gradle\caches\transforms-3\b1a109ead19e620a97a55fb8de8f30f5\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] C:\Users\Vivek\.gradle\caches\transforms-3\b1a109ead19e620a97a55fb8de8f30f5\transformed\firebase-components-17.1.5\AndroidManifest.xml:18:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\db184cfcf18f84e8d8f0ea4f86932594\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\db184cfcf18f84e8d8f0ea4f86932594\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\abcbf2cdb268e02a7d515081d2837da9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\abcbf2cdb268e02a7d515081d2837da9\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\4258753da3148e52509f0065f556d31c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\4258753da3148e52509f0065f556d31c\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\6c64834aa60fd79fbad6866549837afc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Vivek\.gradle\caches\transforms-3\6c64834aa60fd79fbad6866549837afc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\32981826ab003eec7f46b646edde98a2\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\32981826ab003eec7f46b646edde98a2\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:28:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:27:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\29c5f819e74dddb0ba02a7a6b7b9c0ff\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Vivek\.gradle\caches\transforms-3\29c5f819e74dddb0ba02a7a6b7b9c0ff\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.contactmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.contactmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

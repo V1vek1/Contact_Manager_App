@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/drawable_baseline_contact_phone_24.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/drawable/baseline_contact_phone_24.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/layout_activity_call.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/layout/activity_call.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/drawable_check.png.flat",
+        "source": "com.example.contactmanager.app-main-35:/drawable/check.png"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/layout_custom_dialog.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/drawable_phone_logo.jpeg.flat",
+        "source": "com.example.contactmanager.app-main-35:/drawable/phone_logo.jpeg"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/drawable_bg_alert_box.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/drawable/bg_alert_box.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/drawable_wall.jpeg.flat",
+        "source": "com.example.contactmanager.app-main-35:/drawable/wall.jpeg"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/drawable_signup.jpg.flat",
+        "source": "com.example.contactmanager.app-main-35:/drawable/signup.jpg"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.contactmanager.app-main-35:/xml/backup_rules.xml"
+    }
+]

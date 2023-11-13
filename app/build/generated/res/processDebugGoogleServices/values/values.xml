@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://contact-app-6253e-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">717647941273</string>
+    <string name="google_api_key" translatable="false">AIzaSyBiC-EkeoSiDztDT1nZqFQIom0FevhnJA4</string>
+    <string name="google_app_id" translatable="false">1:717647941273:android:7e28fc716a9d7dc2b63208</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBiC-EkeoSiDztDT1nZqFQIom0FevhnJA4</string>
+    <string name="google_storage_bucket" translatable="false">contact-app-6253e.appspot.com</string>
+    <string name="project_id" translatable="false">contact-app-6253e</string>
+</resources>

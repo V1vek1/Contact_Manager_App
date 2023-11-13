@@ -1,0 +1,36 @@
+com.example.contactmanager.app-play-services-basement-18.1.0-0 C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\res
+com.example.contactmanager.app-appcompat-resources-1.6.1-1 C:\Users\Vivek\.gradle\caches\transforms-3\19c6fcaa80fcfe5eda30ed81c7f620df\transformed\appcompat-resources-1.6.1\res
+com.example.contactmanager.app-recyclerview-1.1.0-2 C:\Users\Vivek\.gradle\caches\transforms-3\24a7c25047450b29c095867e08d5b526\transformed\recyclerview-1.1.0\res
+com.example.contactmanager.app-cardview-1.0.0-3 C:\Users\Vivek\.gradle\caches\transforms-3\26ffe3398f119dfd23ad50e8981f5268\transformed\cardview-1.0.0\res
+com.example.contactmanager.app-startup-runtime-1.1.1-4 C:\Users\Vivek\.gradle\caches\transforms-3\29c5f819e74dddb0ba02a7a6b7b9c0ff\transformed\startup-runtime-1.1.1\res
+com.example.contactmanager.app-emoji2-1.2.0-5 C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\res
+com.example.contactmanager.app-annotation-experimental-1.3.0-6 C:\Users\Vivek\.gradle\caches\transforms-3\32981826ab003eec7f46b646edde98a2\transformed\annotation-experimental-1.3.0\res
+com.example.contactmanager.app-material-1.9.0-7 C:\Users\Vivek\.gradle\caches\transforms-3\33aa54dd98aa9e1ffa65867108066f3e\transformed\material-1.9.0\res
+com.example.contactmanager.app-drawerlayout-1.1.1-8 C:\Users\Vivek\.gradle\caches\transforms-3\581e02cde81609956b4ad5890fa6dc53\transformed\drawerlayout-1.1.1\res
+com.example.contactmanager.app-transition-1.2.0-9 C:\Users\Vivek\.gradle\caches\transforms-3\598f88b19f6893cd5a64aa557a0ce217\transformed\transition-1.2.0\res
+com.example.contactmanager.app-firebase-common-20.4.2-10 C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\res
+com.example.contactmanager.app-activity-1.6.0-11 C:\Users\Vivek\.gradle\caches\transforms-3\86707d1d20d8d942f23c8877e33ac9e8\transformed\activity-1.6.0\res
+com.example.contactmanager.app-lifecycle-viewmodel-savedstate-2.5.1-12 C:\Users\Vivek\.gradle\caches\transforms-3\884e7556d5d7b3df4d4e5924f122b669\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.contactmanager.app-coordinatorlayout-1.1.0-13 C:\Users\Vivek\.gradle\caches\transforms-3\996f259b1968e931cfb94238a8afdb1a\transformed\coordinatorlayout-1.1.0\res
+com.example.contactmanager.app-savedstate-1.2.0-14 C:\Users\Vivek\.gradle\caches\transforms-3\9f4363820736a2bdf74b6653decf33b2\transformed\savedstate-1.2.0\res
+com.example.contactmanager.app-appcompat-1.6.1-15 C:\Users\Vivek\.gradle\caches\transforms-3\a242cf0a8c8a7e2b63abb1566079aef7\transformed\appcompat-1.6.1\res
+com.example.contactmanager.app-play-services-base-18.1.0-16 C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\res
+com.example.contactmanager.app-constraintlayout-2.0.1-17 C:\Users\Vivek\.gradle\caches\transforms-3\af140bae324822ef3ef4e8dd545c5a9f\transformed\constraintlayout-2.0.1\res
+com.example.contactmanager.app-lifecycle-livedata-core-2.5.1-18 C:\Users\Vivek\.gradle\caches\transforms-3\b2a626ed5d88591a1ef05e9f2944a88c\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.contactmanager.app-lifecycle-process-2.4.1-19 C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\res
+com.example.contactmanager.app-core-ktx-1.9.0-20 C:\Users\Vivek\.gradle\caches\transforms-3\de68ce2c2f29cca9a174efef75815d9b\transformed\core-ktx-1.9.0\res
+com.example.contactmanager.app-fragment-1.3.6-21 C:\Users\Vivek\.gradle\caches\transforms-3\de96db7c99c4e96b5278a6829d6fb705\transformed\fragment-1.3.6\res
+com.example.contactmanager.app-emoji2-views-helper-1.2.0-22 C:\Users\Vivek\.gradle\caches\transforms-3\dfefcfd346a2b99bc3d1c94d552a8bbf\transformed\emoji2-views-helper-1.2.0\res
+com.example.contactmanager.app-lifecycle-viewmodel-2.5.1-23 C:\Users\Vivek\.gradle\caches\transforms-3\e2fcfcbe81830ae8fcda3ac50883a118\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.contactmanager.app-lifecycle-runtime-2.5.1-24 C:\Users\Vivek\.gradle\caches\transforms-3\f07c671cfe834708c82476af9483f954\transformed\lifecycle-runtime-2.5.1\res
+com.example.contactmanager.app-viewpager2-1.0.0-25 C:\Users\Vivek\.gradle\caches\transforms-3\f6cace661c5d99a2faf8cfecfee232a3\transformed\viewpager2-1.0.0\res
+com.example.contactmanager.app-core-1.9.0-26 C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\res
+com.example.contactmanager.app-pngs-27 F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\build\generated\res\pngs\debug
+com.example.contactmanager.app-res-28 F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\build\generated\res\processDebugGoogleServices
+com.example.contactmanager.app-resValues-29 F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\build\generated\res\resValues\debug
+com.example.contactmanager.app-rs-30 F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\build\generated\res\rs\debug
+com.example.contactmanager.app-packageDebugResources-31 F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.contactmanager.app-packageDebugResources-32 F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.contactmanager.app-merged_res-33 F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\build\intermediates\merged_res\debug
+com.example.contactmanager.app-debug-34 F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\debug\res
+com.example.contactmanager.app-main-35 F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\res

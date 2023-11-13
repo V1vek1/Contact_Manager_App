@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.example.contactmanager.app-mergeDebugResources-32:/layout/activity_sign_in.xml",
+        "source": "com.example.contactmanager.app-main-35:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-mergeDebugResources-32:/layout/activity_sign_up.xml",
+        "source": "com.example.contactmanager.app-main-35:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-mergeDebugResources-32:/layout/activity_call.xml",
+        "source": "com.example.contactmanager.app-main-35:/layout/activity_call.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-mergeDebugResources-32:/layout/activity_main.xml",
+        "source": "com.example.contactmanager.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.contactmanager.app-mergeDebugResources-32:/layout/custom_dialog.xml",
+        "source": "com.example.contactmanager.app-main-35:/layout/custom_dialog.xml"
+    }
+]

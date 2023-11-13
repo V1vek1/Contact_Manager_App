@@ -1,0 +1,176 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.contactmanager"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:5-79
+13-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:22:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:5-67
+14-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:23:22-64
+15
+16    <permission
+16-->[androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.contactmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.contactmanager.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:5:5-32:19
+23        android:allowBackup="true"
+23-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:6:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.9.0] C:\Users\Vivek\.gradle\caches\transforms-3\f90a679c8658d9080f0ba29a8b075542\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:7:9-65
+26        android:debuggable="true"
+27        android:extractNativeLibs="false"
+28        android:fullBackupContent="@xml/backup_rules"
+28-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:8:9-54
+29        android:icon="@mipmap/ic_launcher"
+29-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:9:9-43
+30        android:label="@string/app_name"
+30-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:10:9-41
+31        android:supportsRtl="true"
+31-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:11:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.ContactManager" >
+33-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:12:9-52
+34        <activity
+34-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:14:9-16:40
+35            android:name="com.example.contactmanager.Call"
+35-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:15:13-33
+36            android:exported="false" />
+36-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:16:13-37
+37        <activity
+37-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:17:9-19:40
+38            android:name="com.example.contactmanager.SignIn"
+38-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:18:13-35
+39            android:exported="false" />
+39-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:19:13-37
+40        <activity
+40-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:20:9-22:40
+41            android:name="com.example.contactmanager.SignUp"
+41-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:21:13-35
+42            android:exported="false" />
+42-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:22:13-37
+43        <activity
+43-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:23:9-31:20
+44            android:name="com.example.contactmanager.MainActivity"
+44-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:24:13-41
+45            android:exported="true" >
+45-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:25:13-36
+46            <intent-filter>
+46-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:26:13-30:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:27:17-69
+47-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:27:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:29:17-77
+49-->F:\MY ANDROID PROJECTS\My Own Projects\contact_manager-master\app\src\main\AndroidManifest.xml:29:27-74
+50            </intent-filter>
+51        </activity>
+52
+53        <service
+53-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:26:9-35:19
+54            android:name="com.google.firebase.components.ComponentDiscoveryService"
+54-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:27:13-84
+55            android:directBootAware="true"
+55-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+56            android:exported="false" >
+56-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:28:13-37
+57            <meta-data
+57-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:29:13-31:85
+58                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+58-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:30:17-120
+59                android:value="com.google.firebase.components.ComponentRegistrar" />
+59-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:31:17-82
+60            <meta-data
+60-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:32:13-34:85
+61                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+61-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:33:17-109
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[com.google.firebase:firebase-database:20.3.0] C:\Users\Vivek\.gradle\caches\transforms-3\46b1b7e23a32050c3ecfae3ce67f3196\transformed\firebase-database-20.3.0\AndroidManifest.xml:34:17-82
+63            <meta-data
+63-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+64                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+64-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+65                android:value="com.google.firebase.components.ComponentRegistrar" />
+65-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\f558fe374b98a277ceec8cbc5dc0bdc4\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+66            <meta-data
+66-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+67                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+67-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+68                android:value="com.google.firebase.components.ComponentRegistrar" />
+68-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+69        </service>
+70
+71        <provider
+71-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+72            android:name="com.google.firebase.provider.FirebaseInitProvider"
+72-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+73            android:authorities="com.example.contactmanager.firebaseinitprovider"
+73-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+74            android:directBootAware="true"
+74-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+75            android:exported="false"
+75-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+76            android:initOrder="100" />
+76-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Vivek\.gradle\caches\transforms-3\710301113d55c0d605735d37f4de6c5e\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+77
+78        <activity
+78-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+79            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+79-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+80            android:exported="false"
+80-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+81-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\a27ab87c8f43d0decf12820422acafb7\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+82
+83        <meta-data
+83-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+84            android:name="com.google.android.gms.version"
+84-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+85            android:value="@integer/google_play_services_version" />
+85-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Vivek\.gradle\caches\transforms-3\097cf5aeb3aa275245661376b6ed7cf7\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+86
+87        <provider
+87-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+88            android:name="androidx.startup.InitializationProvider"
+88-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+89            android:authorities="com.example.contactmanager.androidx-startup"
+89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+90            android:exported="false" >
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+91            <meta-data
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+92                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+93                android:value="androidx.startup" />
+93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Vivek\.gradle\caches\transforms-3\3226f37c176df6902a42d2e8c416269c\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+94            <meta-data
+94-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+95                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+95-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+96                android:value="androidx.startup" />
+96-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Vivek\.gradle\caches\transforms-3\c3c867a0cab3f44edf1d5d8e08d5f553\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+97        </provider>
+98    </application>
+99
+100</manifest>
