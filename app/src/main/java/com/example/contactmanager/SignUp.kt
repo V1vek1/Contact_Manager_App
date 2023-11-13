@@ -15,13 +15,17 @@ class SignUp : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        //Yah bhi maine "view Binding" ki help se xml se design liya
         binding = ActivitySignUpBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        supportActionBar?.hide()
+        supportActionBar?.hide()  //App se action bar ko hide kiya
 
+        //User ka data Users se lekar ko firebase ke User me save kiya
         database = FirebaseDatabase.getInstance().getReference("Users")
 
+        //Agar koi 'Signup' button per click kare to yeh karo
         binding.btnSignUp.setOnClickListener {
 
             val name=binding.etName.text.toString()
@@ -39,6 +43,8 @@ class SignUp : AppCompatActivity() {
                 Toast.makeText(this,"User Registered", Toast.LENGTH_SHORT).show()
             }
         }
+
+        //yaha "TextView" signin per click karne se "tvSignIn" class ko Call kardo
         binding.tvSignIn.setOnClickListener {
             intent = Intent(applicationContext, SignIn::class.java)
             startActivity(intent)

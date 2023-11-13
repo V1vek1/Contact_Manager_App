@@ -14,6 +14,9 @@ class SignIn : AppCompatActivity() {
     private lateinit var databaseReference: DatabaseReference
     private lateinit var binding: ActivitySignInBinding
 
+
+    //Yha maine bnaya "Companion Object" joki kisi na kisi class me hi create hota h or yeh help karna h
+    //"static method or variable" bnane me jisko hum bina object bnaye hi use kar sakte h puree class me kahi bhi
     companion object{
         const val KEY1 ="com.example.day16database.Signin.name"
         const val KEY2 ="com.example.day16database.Signin.mail"
@@ -22,6 +25,7 @@ class SignIn : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         binding = ActivitySignInBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
@@ -41,6 +45,8 @@ class SignIn : AppCompatActivity() {
         }
     }
 
+    //Maine ek Function bnaya "readData" name ka joki "user" ka data le rha h Phir check kar rha h ki wo sahi h ki nahi
+    //agar sahi h to "if" condition chalao warna "else" condition chalao
         fun readData(uniqueid:String){
             databaseReference = FirebaseDatabase.getInstance().getReference("Users")
 
@@ -59,7 +65,9 @@ class SignIn : AppCompatActivity() {
                     intentWelcome.putExtra(KEY2,mail.toString())
                     intentWelcome.putExtra(KEY3,userid.toString())
                     startActivity(intentWelcome)
-                }else{
+                }
+                else
+                {
                     Toast.makeText(this, "User does not exist",Toast.LENGTH_SHORT).show()
                 }
 
