@@ -8,7 +8,7 @@ import com.example.contactmanager.databinding.ActivityCallBinding
 import com.google.firebase.database.DatabaseReference
 import com.google.firebase.database.FirebaseDatabase
 
-
+//Yeh Contact save karne wala Activity h
 class Call : AppCompatActivity() {
 
     //Here i created 2 private and 1 public "Lateinit: variable
